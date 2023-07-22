@@ -1,0 +1,4 @@
+baseURL = 'https://udayaprakash.com/'
+languageCode = 'en-us'
+title = 'Udaya - Personal Blog'
+theme = 'hugo-bearblog'
