@@ -1,0 +1,1 @@
+Hi. I try to write. Opinions are personal.
