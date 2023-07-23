@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Udaya - Personal Blog</title>
+    <link>https://udayaprakash.com/tags/</link>
+    <description>Recent content in Tags on Udaya - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://udayaprakash.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>barbie</title>
+      <link>https://udayaprakash.com/tags/barbie/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://udayaprakash.com/tags/barbie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feminism</title>
+      <link>https://udayaprakash.com/tags/feminism/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://udayaprakash.com/tags/feminism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intersectional</title>
+      <link>https://udayaprakash.com/tags/intersectional/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://udayaprakash.com/tags/intersectional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://udayaprakash.com/tags/review/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://udayaprakash.com/tags/review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
