@@ -1,5 +1,5 @@
 +++
-title = "Barbie Review - through a political lens"
+title = "The Feminism of Barbie"
 date = "2022-07-22"
 description = "Barbie movie review starring Margot Robbie and Ryan Gosling"
 tags = [
@@ -22,11 +22,11 @@ Mattel CFO: "But this will make Mattel relevant again and our sales will increas
 
 Mattel CEO: "OH YEAH SURE!"
 
-#### The problem of liberal feminism
+### The problem of liberal feminism
 
-If there's a conservative misogynist reading this, before you are ecstatic at reading a sly diss at the feminism here, please understand my only worry is going to be the "feminism wasn't left enough" and do not seek solace here. This is a discussion among the left folks. I usually refrain from heavily critiquing the left for "political correctness" as I'd take Barbie by Greta Gerwig than anything venomous spit out regularly by Ben Shapiro, Tate and friends who ooze with "alpha male vibez" like Ken in the latter part of the movie. This time, I had to opine in regards to the mainstream West's lack of intersectionality, thereby resulting in a one-dimensional view of Feminism, one that sees misogyny as the only problem against the feminist movement depriving women of the equality they deserve.
+If there's a conservative misogynist reading this, before you are ecstatic at reading a sly diss at the feminism here, please understand my only worry is going to be that the "feminism wasn't fierce enough". So, do not seek solace here. This is a discussion among the left folks. I usually refrain from heavily critiquing the left for "political correctness" as I'd take Barbie by Greta Gerwig than anything venomous spit out regularly by Ben Shapiro, Tate and friends who ooze with "alpha male vibez" like Ken in the latter part of the movie. This time, I had to opine in regards to the mainstream West's lack of intersectionality, thereby resulting in a one-dimensional view of feminism, one that sees misogyny as the only problem against the feminist movement depriving women of the equality they deserve.
 
-The first sign of this is the presence of racial diversity in the cast, which is appreciable... but the people from different races are there just for the visual aesthetics but they don't represent their race. For example, one of the Kens, played by Ncuti Gatwa famous for portraying Eric from Sex Education, is black, another Ken, by Simu Liu (Shang-Chi, Jung from Kim's Convenience) also exists and is asian. So does a black President Barbie (Issa Rae), and so does a black Physicist Barbie (Alexandra Shipp). But they don't represent their race in any way other than just having the physical appearance of that race. Some questions naturally arise:
+The first sign of this is the presence of racial diversity in the cast, which is appreciable... but the people from different races are there just for the visual aesthetics but they don't represent their race. For example, one of the Kens, played by Ncuti Gatwa famous for portraying Eric from Sex Education, is black, another Ken, by Simu Liu (Shang-Chi, Jung from Kim's Convenience) also exists and is asian. So does a black President Barbie (Issa Rae), and so does a black Physicist Barbie (Alexandra Shipp). But they don't represent their race in any way other than just having the physical appearance of that race. Replacing the colored people with another white character will not change a single dialogue or the perception of the movie. Some questions naturally arise:
 
 > "Doesn't White Macho Ken look down on Asian Ken or Black Ken?"
 >
