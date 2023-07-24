@@ -45,6 +45,10 @@ A better intersectional lens of feminism would include people of different races
 
 Nevertheless, Mattel has revived themselves as a new "woke, self-aware" brand as we continue to admire at how "Mattel let the movie diss about them" but not realise the truths that the movie itself spoke, like an [Executive Office filled with mostly men](https://corporate.mattel.com/investors/corporate-governance/executive-officers). Is it enough to be self aware and acknowledge? Does that relieve them from all the criticism? Are they now a 'politically correct' brand? What about the fact that the doll costs more than INR 2000 in India, which is 1/7th of [India's monthly median income](https://www.mospi.gov.in/sites/default/files/press_release/PressNoteNAD_28feb23final.pdf). The Barbie doll doesn't represent all women. It represents relatively privileged kids whose parents can afford to buy expensive toys. Think twice before you ask someone, "Oh, you've never had a Barbie doll?", or "Oh, your collection is small. I had 29 different ones. I'm a bigger fan.".
 
-To end this note, feminism needs to be intersectional and inclusive. Companies acknowledging their Capitalism isn't enough to acquit them of their ongoing mistakes too. Ofcourse, I am not calling to cancel Barbie. It was indeed a great movie that digged the macho misogynists deep enough, encouraged the importance of holding power for women, and stood up for women to also be "ordinary" too. With that said, it's important to critique this flavor of feminism to make sure that Barbie, to quote itself, doesn't feel like “Because of Barbie, all the problems of feminism have been solved!”.
+To end this note, feminism needs to be intersectional and inclusive. Companies acknowledging their Capitalism isn't enough to acquit them of their ongoing mistakes too. Ofcourse, I am not calling to cancel Barbie. It was indeed a great movie that digged the macho misogynists deep enough, showcased the importance of holding power to women, and stood up for women to also be "ordinary" too. With that said, it's important to critique this flavor of feminism to make sure that Barbie, to quote itself, doesn't feel like “Because of Barbie, all the problems of feminism have been solved!”.
+
+
+\- _Udaya Prakash Nageswaran_
+
 
 
